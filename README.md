@@ -57,4 +57,4 @@ So, here we have:
 
 **Sample Result**
 
-
+![1python](https://user-images.githubusercontent.com/86364520/188312739-5fc24764-2dac-4fac-8dad-6e587d0d19e0.jpg)
